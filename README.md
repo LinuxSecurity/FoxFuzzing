@@ -1,1 +1,1 @@
-http://foxfuzzing.org
+http://foxfuzzing.com
